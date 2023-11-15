@@ -1,0 +1,1 @@
+user.alarm[0] = cooldown;

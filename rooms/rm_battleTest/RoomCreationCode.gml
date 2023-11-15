@@ -1,0 +1,1 @@
+startBattle(room_get_name(global.last_room));

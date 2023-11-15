@@ -1,0 +1,1 @@
+vngen_object_draw(0, 0, true);

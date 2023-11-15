@@ -1,0 +1,1 @@
+vngen_log_init(50);
