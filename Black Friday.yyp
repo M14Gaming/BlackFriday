@@ -712,6 +712,7 @@
     {"id":{"name":"cmd_window_set_fullscreen","path":"scripts/cmd_window_set_fullscreen/cmd_window_set_fullscreen.yy",},},
     {"id":{"name":"vngen_textbox_create","path":"scripts/vngen_textbox_create/vngen_textbox_create.yy",},},
     {"id":{"name":"spr_scene_fade","path":"sprites/spr_scene_fade/spr_scene_fade.yy",},},
+    {"id":{"name":"obj_battleManager","path":"objects/obj_battleManager/obj_battleManager.yy",},},
     {"id":{"name":"vngen_log_button_destroy","path":"scripts/vngen_log_button_destroy/vngen_log_button_destroy.yy",},},
     {"id":{"name":"vngen_scene_modify_ext","path":"scripts/vngen_scene_modify_ext/vngen_scene_modify_ext.yy",},},
     {"id":{"name":"ef_hap_phone","path":"scripts/ef_hap_phone/ef_hap_phone.yy",},},

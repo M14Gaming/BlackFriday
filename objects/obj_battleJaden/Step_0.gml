@@ -1,6 +1,11 @@
 //Layering
 depth = -y;
 
+//If health reaches 0, destroy jaden
+if (currentHP <= 0) {
+	instance_destroy();
+}
+
 //If an action is not currently taking place, game will accept inputs from player
 if(alarm[0] > 0 or instance_exists(obj_attack)) {
 	canAct = false;

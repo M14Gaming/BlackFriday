@@ -614,6 +614,7 @@
     {"name":"cmd_window_set_fullscreen","order":23,"path":"scripts/cmd_window_set_fullscreen/cmd_window_set_fullscreen.yy",},
     {"name":"vngen_textbox_create","order":15,"path":"scripts/vngen_textbox_create/vngen_textbox_create.yy",},
     {"name":"spr_scene_fade","order":12,"path":"sprites/spr_scene_fade/spr_scene_fade.yy",},
+    {"name":"obj_battleManager","order":7,"path":"objects/obj_battleManager/obj_battleManager.yy",},
     {"name":"vngen_log_button_destroy","order":12,"path":"scripts/vngen_log_button_destroy/vngen_log_button_destroy.yy",},
     {"name":"vngen_scene_modify_ext","order":1,"path":"scripts/vngen_scene_modify_ext/vngen_scene_modify_ext.yy",},
     {"name":"ef_hap_phone","order":1,"path":"scripts/ef_hap_phone/ef_hap_phone.yy",},
